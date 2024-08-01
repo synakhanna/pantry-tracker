@@ -1,1 +1,1 @@
-# pantry-tracker
+# pantry-tracker-project
